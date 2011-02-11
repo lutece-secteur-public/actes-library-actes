@@ -22,4 +22,9 @@
 	  <version>2.0.3</version>
 	</dependency>  
     </dependencies>
+	<scm>
+        <connection>scm:svn:http://dev.lutece.paris.fr/svn/lutece/applications/actes/trunk/library-actes</connection>
+        <developerConnection>scm:svn:https://dev.lutece.paris.fr/svn/lutece/applications/actes/trunk/library-actes</developerConnection>
+        <url>http://dev.lutece.paris.fr/viewvc/lutece/applications/actes/trunk/library-actes</url>
+    </scm>
 </project>
