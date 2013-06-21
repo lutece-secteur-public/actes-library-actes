@@ -9,20 +9,27 @@
 package fr.gouv.interieur.actes_v1;
 
 import java.util.Calendar;
+
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlAttribute;
 import javax.xml.bind.annotation.XmlType;
 import javax.xml.bind.annotation.adapters.XmlJavaTypeAdapter;
+
 import org.w3._2001.xmlschema.Adapter2;
 
 
 /**
- * Données relatives à un courrier de la préfecture (courrier simple, lettre d'observations, demande de pieces complementaires): identifiant de l'acte + date du courrier
+ * DonnÃ©es relatives Ã  un courrier de la prÃ©fecture (courrier simple, lettre
+ * d'observations, demande de pieces complementaires): identifiant de l'acte +
+ * date du courrier
  * 
- * <p>Java class for DonneesCourrierPref complex type.
+ * <p>
+ * Java class for DonneesCourrierPref complex type.
  * 
- * <p>The following schema fragment specifies the expected content contained within this class.
+ * <p>
+ * The following schema fragment specifies the expected content contained within
+ * this class.
  * 
  * <pre>
  * &lt;complexType name="DonneesCourrierPref">

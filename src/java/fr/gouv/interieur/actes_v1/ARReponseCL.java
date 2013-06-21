@@ -9,21 +9,28 @@
 package fr.gouv.interieur.actes_v1;
 
 import java.util.Calendar;
+
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlAttribute;
 import javax.xml.bind.annotation.XmlElement;
 import javax.xml.bind.annotation.XmlType;
 import javax.xml.bind.annotation.adapters.XmlJavaTypeAdapter;
+
 import org.w3._2001.xmlschema.Adapter2;
 
 
 /**
- * Données d'un AR d'une réponse d'une collectivité au courrier d'une préfecture (envoi ou refus d'envoyer des pièces complémentaires, réponse ou rejet pour une lettre d'observations)
+ * DonnÃ©es d'un AR d'une rÃ©ponse d'une collectivitÃ© au courrier d'une prÃ©fecture
+ * (envoi ou refus d'envoyer des piÃ©ces complÃ©mentaires, rÃ©ponse ou rejet pour
+ * une lettre d'observations)
  * 
- * <p>Java class for ARReponseCL complex type.
+ * <p>
+ * Java class for ARReponseCL complex type.
  * 
- * <p>The following schema fragment specifies the expected content contained within this class.
+ * <p>
+ * The following schema fragment specifies the expected content contained within
+ * this class.
  * 
  * <pre>
  * &lt;complexType name="ARReponseCL">

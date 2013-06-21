@@ -10,6 +10,7 @@ package fr.gouv.interieur.actes_v1;
 
 import java.util.ArrayList;
 import java.util.List;
+
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlElement;
@@ -17,11 +18,14 @@ import javax.xml.bind.annotation.XmlType;
 
 
 /**
- * Donnees contenues dans une enveloppe de transmission collectivité vers MISILL
+ * Donnees contenues dans une enveloppe de transmission collectivitÃ© vers MISILL
  * 
- * <p>Java class for DonneesEnveloppeCLMISILL complex type.
+ * <p>
+ * Java class for DonneesEnveloppeCLMISILL complex type.
  * 
- * <p>The following schema fragment specifies the expected content contained within this class.
+ * <p>
+ * The following schema fragment specifies the expected content contained within
+ * this class.
  * 
  * <pre>
  * &lt;complexType name="DonneesEnveloppeCLMISILL">
@@ -124,7 +128,7 @@ public class DonneesEnveloppeCLMISILL {
     }
 
     /**
-     * Liste des fichiers XML envoyés
+     * Liste des fichiers XML envoyï¿½s
      * 
      * @return
      *     possible object is
@@ -136,7 +140,7 @@ public class DonneesEnveloppeCLMISILL {
     }
 
     /**
-     * Liste des fichiers XML envoyés
+     * Liste des fichiers XML envoyï¿½s
      * 
      * @param value
      *     allowed object is

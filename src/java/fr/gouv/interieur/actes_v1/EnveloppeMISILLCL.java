@@ -103,24 +103,22 @@ public class EnveloppeMISILLCL {
     }
 
     /**
-     * Liste des fichiers XML envoyés
+     * Liste des fichiers XML envoyÃ©s
      * 
      * @return
-     *     possible object is
-     *     {@link FormulairesEnvoyes }
-     *     
+     *         possible object is {@link FormulairesEnvoyes }
+     * 
      */
     public FormulairesEnvoyes getFormulairesEnvoyes() {
         return formulairesEnvoyes;
     }
 
     /**
-     * Liste des fichiers XML envoyés
+     * Liste des fichiers XML envoyÃ©s
      * 
      * @param value
-     *     allowed object is
-     *     {@link FormulairesEnvoyes }
-     *     
+     *            allowed object is {@link FormulairesEnvoyes }
+     * 
      */
     public void setFormulairesEnvoyes(FormulairesEnvoyes value) {
         this.formulairesEnvoyes = value;

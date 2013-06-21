@@ -13,15 +13,19 @@ import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlAttribute;
 import javax.xml.bind.annotation.XmlType;
 import javax.xml.bind.annotation.adapters.XmlJavaTypeAdapter;
+
 import org.w3._2001.xmlschema.Adapter1;
 
 
 /**
- * Matiere d'un acte (Code et libellé)
+ * Matiere d'un acte (Code et libellÃ©)
  * 
- * <p>Java class for Matiere complex type.
+ * <p>
+ * Java class for Matiere complex type.
  * 
- * <p>The following schema fragment specifies the expected content contained within this class.
+ * <p>
+ * The following schema fragment specifies the expected content contained within
+ * this class.
  * 
  * <pre>
  * &lt;complexType name="Matiere">

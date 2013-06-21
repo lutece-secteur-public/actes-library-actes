@@ -10,6 +10,7 @@ package fr.gouv.interieur.actes_v1;
 
 import java.util.ArrayList;
 import java.util.List;
+
 import javax.xml.bind.annotation.XmlAccessType;
 import javax.xml.bind.annotation.XmlAccessorType;
 import javax.xml.bind.annotation.XmlElement;
@@ -17,11 +18,14 @@ import javax.xml.bind.annotation.XmlType;
 
 
 /**
- * Ensemble de fichiers signés
+ * Ensemble de fichiers signÃ©s
  * 
- * <p>Java class for FichiersSignes complex type.
+ * <p>
+ * Java class for FichiersSignes complex type.
  * 
- * <p>The following schema fragment specifies the expected content contained within this class.
+ * <p>
+ * The following schema fragment specifies the expected content contained within
+ * this class.
  * 
  * <pre>
  * &lt;complexType name="FichiersSignes">
