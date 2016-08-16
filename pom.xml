@@ -9,7 +9,7 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>fr.paris.lutece.plugins</groupId>
     <artifactId>library-actes</artifactId>
-    <version>2.0.5</version>
+    <version>2.0.6-SNAPSHOT</version>
     <name>Library actes v1.1</name>
     <description>Bibliotheque ACTES specifications 1.1</description>
     
@@ -43,7 +43,7 @@
         <connection>scm:git:https://github.com/lutece-secteur-public/actes-library-actes.git</connection>
         <developerConnection>scm:git:https://github.com/lutece-secteur-public/actes-library-actes.git</developerConnection>
         <url>https://github.com/lutece-secteur-public/actes-library-actes.git</url>
-      <tag>actes-library-actes-2.0.5</tag>
+      <tag>HEAD</tag>
   </scm>
  
 </project>
