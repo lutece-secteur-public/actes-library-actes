@@ -1,9 +1,9 @@
 
-# Library actes-library-actes
+# Librairie actes-library-actes
 
 ## Introduction
 
-Library for ACTES plugin (https://github.com/lutece-public-sector/actes-plugin-actes) containing Java classes produced by the reference XML schemas provided by the Ministry of the Interior.
+Bibliothèque destinée au plugin ACTES (https://github.com/lutece-secteur-public/actes-plugin-actes) contenant les classes Java produites par les schémas XML de référence fournis par le Ministère de l'Intérieur.
 
 ## Configuration
 
