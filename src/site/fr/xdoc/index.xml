@@ -1,0 +1,27 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<document>
+    <properties>
+        <title>Introduction</title>
+    </properties>
+    <body>
+        <section name="Librairie actes-library-actes">
+            <!--
+            <p>
+                <img src="images/example.png" />
+            </p>
+            -->
+            <subsection name="Introduction">
+                <p>Bibliothèque destinée au plugin ACTES (https://github.com/lutece-secteur-public/actes-plugin-actes) contenant les classes Java 
+produites par les schémas XML de référence fournis par le Ministère de l'Intérieur.  
+				</p>
+            </subsection>
+            <subsection name="Configuration">
+                <p></p>
+            </subsection>
+            <subsection name="Usage">
+                <p></p>
+            </subsection>
+        </section>
+    </body>
+</document>
+
